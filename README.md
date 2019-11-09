@@ -1,3 +1,2 @@
-# notes
-personal notes
+# Initial page
 
